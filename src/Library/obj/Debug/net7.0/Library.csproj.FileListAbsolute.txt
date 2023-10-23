@@ -1,0 +1,22 @@
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\bin\Debug\net7.0\Library.deps.json
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\bin\Debug\net7.0\Library.dll
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\bin\Debug\net7.0\Library.pdb
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\obj\Debug\net7.0\Library.dll
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\obj\Debug\net7.0\refint\Library.dll
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\obj\Debug\net7.0\Library.pdb
+C:\Users\Mauricio\Desktop\proyectos P2\Factorial\src\Library\obj\Debug\net7.0\ref\Library.dll
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\bin\Debug\net7.0\Library.deps.json
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\bin\Debug\net7.0\Library.dll
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\bin\Debug\net7.0\Library.pdb
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\obj\Debug\net7.0\Library.dll
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\obj\Debug\net7.0\refint\Library.dll
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\obj\Debug\net7.0\Library.pdb
+C:\Users\Soporte\Desktop\proyectosP2\Factorial\src\Library\obj\Debug\net7.0\ref\Library.dll
